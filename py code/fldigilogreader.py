@@ -10,7 +10,7 @@ import time
 
 fileBytePos = 0
 while True:
-    inFile = open('../.fldigi/fldigi20200410.log','r') #this would need updated with your path to the fldigi logs
+    inFile = open('../../.fldigi/fldigi20200830.log','r') #this would need updated with your path to the fldigi logs
     inFile.seek(fileBytePos)
     data = inFile.read()
     if (data):
