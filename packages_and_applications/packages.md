@@ -34,3 +34,8 @@ replace path and file name below with the path to your downloaded file, and its 
 ```
 sudo apt install ~/path/to/download/mysql-workbench-community_8.0.22-1ubuntu20.04_amd64.deb
 ```
+
+### Brave Browser
+I like this broswer.  Blocks add and stupid stuff. Seems to run fast.
+Directions for installing and setup [available here](https://brave.com/linux/#linux)
+
