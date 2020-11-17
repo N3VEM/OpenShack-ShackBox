@@ -10,7 +10,12 @@ sudo apt update
 sudo apt upgrage
 ```
 ## Ham Radio Specific
-stuff goes here
+
+### TrustedQSL
+For submitting logs to LOTW
+```
+sudo apt install trustedqsl
+```
 
 ## Not Ham Radio Specific, but stuff I use on this machine.
 
