@@ -17,6 +17,12 @@ For submitting logs to LOTW
 sudo apt install trustedqsl
 ```
 
+### CQRLog
+My chosen program for logging.  Not perfect, but does more of what I want than most other things I've looked at.
+```
+sudo apt install cqrlog
+```
+
 ## Not Ham Radio Specific, but stuff I use on this machine.
 
 ### Barrier
