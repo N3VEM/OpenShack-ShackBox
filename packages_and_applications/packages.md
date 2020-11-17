@@ -12,7 +12,7 @@ sudo apt upgrage
 ## Ham Radio Specific
 stuff goes here
 
-## Not Ha Radio Specific, but stuff I use on this machine.
+## Not Ham Radio Specific, but stuff I use on this machine.
 
 ### Barrier
 I have multiple computers (not all for shack purposes) and use a 'software KVM' so that one mouse and keyboard can be used across all of them, like one large continuous desktop.
