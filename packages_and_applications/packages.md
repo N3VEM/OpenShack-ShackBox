@@ -41,6 +41,11 @@ sudo apt install ~/path/to/download/mysql-workbench-community_8.0.22-1ubuntu20.0
 ```
 
 ### Brave Browser
-I like this broswer.  Blocks add and stupid stuff. Seems to run fast.
+I like this broswer.  Blocks adds and stupid stuff. Seems to run fast.
 Directions for installing and setup [available here](https://brave.com/linux/#linux)
 
+### Visual Studio Code
+Because code.  Others reccomended installing directly from .deb provided by the vendor vs. using what's in the repo.
+.deb is [available here](https://code.visualstudio.com/)
+
+I installed this package using the GUI gdebi package manager.
