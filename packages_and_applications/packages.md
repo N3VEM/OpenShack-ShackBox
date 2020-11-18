@@ -46,6 +46,6 @@ Directions for installing and setup [available here](https://brave.com/linux/#li
 
 ### Visual Studio Code
 Because code.  Others reccomended installing directly from .deb provided by the vendor vs. using what's in the repo.
-.deb is [available here](https://code.visualstudio.com/)
+You can get the .deb [available here](https://code.visualstudio.com/)
 
 I installed this package using the GUI gdebi package manager.
