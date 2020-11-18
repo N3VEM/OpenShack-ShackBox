@@ -17,6 +17,12 @@ For submitting logs to LOTW
 sudo apt install trustedqsl
 ```
 
+### CQRlog
+I've used this logging program on Linux for a while now.  It seems to do most of what I want. There seem to be some dependancy things when installing on Linux Mint 20, but luckily PA1SBM has written up a little install script that handles it makes the install a snap.  First get the script from his [github page.](https://github.com/pa1sbm/LM20_CQRlog_Installer) After you've copied the .sh file to your home directory run this:
+```
+sudo sh ./LM20_CQRlog_Installer.sh
+```
+
 ## Not Ham Radio Specific, but stuff I use on this machine.
 
 ### Barrier
