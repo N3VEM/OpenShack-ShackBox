@@ -36,6 +36,12 @@ I don't do much SSTV stuff, but when I do, this is what I've used, mostly becaus
 sudo apt install qsstv
 ```
 
+### WSJTX
+All the cool kids hang out on the digital modes this software was designed for (FT8, et. al.)
+```
+sudo apt install wsjtx
+```
+
 ## Not Ham Radio Specific, but stuff I use on this machine.
 
 ### Barrier
