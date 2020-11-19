@@ -4,7 +4,7 @@ A frustration point I noticed with my FDTX3000 was the fact that if I fully powe
 present it's two serial ports to the PC in the same order. This meant that 50% of the time I powered up, I had to go back into
 all the radio software and 're-tell' it what serial ports to use.  
 
-The FTDX3000 actaully uses 2 usb serial devices on one connection - essentially one for data and one for ptt.  The show up in the
+The FTDX3000 actaully uses 2 usb serial devices on one connection - essentially one for data and one for ptt.  They show up in the
 system with 2 main differenes in their attributes, one is an "Enhanced Com Port" and one is a "Standard Com Port"
 
 We can use these two attributes to create symlinks, so that instead of referring to our ports by dev/ttyUSB0 and dev/ttyUSB1 (which might change),
