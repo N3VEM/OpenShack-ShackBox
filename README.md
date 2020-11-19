@@ -14,5 +14,7 @@ This section will give details on the operating system for the ShackBox
 # Services
 This section will contain details on custom system services set up to run on the shackbox
 
+If you happen to have an FTDX3000, and have had trouble with it 'changing' serial port numbers, make sure to [check out the info on creating a udev rule](https://github.com/N3VEM/OpenShack-ShackBox/blob/master/services/udev_rules.md) to deal with that. 
+
 # More to come
 More sections will be added as needed
