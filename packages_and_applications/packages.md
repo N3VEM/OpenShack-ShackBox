@@ -30,6 +30,12 @@ As a note, I use the hamlib option for rig control, NOT the flrig option that it
 sudo apt install fldigi
 ```
 
+### QSSTV
+I don't do much SSTV stuff, but when I do, this is what I've used, mostly because it seems like pretty much the only option for linux.  I have no complaints about it though.
+```
+sudo apt install qsstv
+```
+
 ## Not Ham Radio Specific, but stuff I use on this machine.
 
 ### Barrier
