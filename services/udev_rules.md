@@ -1,3 +1,5 @@
+##FTDX3000 Serial Ports
+
 A frustration point I noticed with my FDTX3000 was the fact that if I fully powered the rig on and off, it wouldn't always
 present it's two serial ports to the PC in the same order. This meant that 50% of the time I powered up, I had to go back into
 all the radio software and 're-tell' it what serial ports to use.  
@@ -26,4 +28,18 @@ KERNEL=="ttyUSB*", ATTRS{interface}=="Enhanced Com Port", SYMLINK+="ftdx3000data
 KERNEL=="ttyUSB*", ATTRS{interface}=="Standard Com Port",  SYMLINK+="ftdx3000ptt"
 ```
 save and exit.
+
+Plug in the USB cable to the rig if you havn't already, then run this:
+
+```
+sudo udevadm control --reload-rules && udevadm trigger
+```
+now if at the terminal you type
+```
+ls /dev
+```
+you should see your newly created symlinks in the list of devices (ftdx3000data and ftdx3000ptt).
+This also means that in software like fldigi etc. where it asks for the serial port of your device, you can enter /dev/ftdx3000data and never have to mess with it again.
+
+
 
