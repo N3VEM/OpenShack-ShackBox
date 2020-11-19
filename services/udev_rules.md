@@ -1,4 +1,4 @@
-##FTDX3000 Serial Ports
+## FTDX3000 Serial Ports
 
 A frustration point I noticed with my FDTX3000 was the fact that if I fully powered the rig on and off, it wouldn't always
 present it's two serial ports to the PC in the same order. This meant that 50% of the time I powered up, I had to go back into
