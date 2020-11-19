@@ -55,3 +55,9 @@ Because code.  Others reccomended installing directly from .deb provided by the 
 You can get the .deb [available here](https://code.visualstudio.com/)
 
 I installed this package using the GUI gdebi package manager.
+
+### Slack
+This is becoming pretty common for communication amoung different groups.  We use it in POTA to keep in touch with other admins and participants.
+Installed from .deb.  [Download here](https://slack.com/downloads/linux)
+
+Installed with gdebi gui application.
