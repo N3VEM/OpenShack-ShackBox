@@ -23,6 +23,13 @@ I've used this logging program on Linux for a while now.  It seems to do most of
 sudo sh ./LM20_CQRlog_Installer.sh
 ```
 
+### fldigi
+*The* program for basically all the digital modes that aren't wsjt or SSTV.
+As a note, I use the hamlib option for rig control, NOT the flrig option that it tries to push you towards.
+```
+sudo apt install fldigi
+```
+
 ## Not Ham Radio Specific, but stuff I use on this machine.
 
 ### Barrier
