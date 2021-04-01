@@ -7,6 +7,5 @@ They can generally be found on ebay for under $200.
 
   - Pentium Dual-Core CPU E6700 @ 3.2GHz
   - 4GB Ram
-  - 1TB HDD
-
-There is currenlty no 'extras' or 'upgraded' hardward - this PC is 'off the shelf.'
+  - uppgraded 2TB HDD
+  - upgraded NVIDIA NVS 310 Dual Display Port Video Card
