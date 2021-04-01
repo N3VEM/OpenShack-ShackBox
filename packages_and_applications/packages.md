@@ -57,6 +57,12 @@ I do some dabbling with AWS, so the AWS CLI is a must-have tool for some of the 
 sudo apt install awscli
 ```
 
+### git
+For all the glory.
+```
+sudo apt install git-all
+```
+
 ### MySQL Workbench
 I like Workbench for working with MySQL databases.  It must be installed from .deb [downloadable here](https://dev.mysql.com/downloads/workbench/)
 
