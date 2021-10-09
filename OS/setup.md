@@ -1,10 +1,10 @@
 # OpenShack-ShackBox
 
-In the N3VEM hamshack, the "shackBox" is currently running Linux Mint 20 'Ulyana' with the XFCE desktop.
+In the N3VEM hamshack, the "shackBox" is currently running Linux Mint 20 'Uma' with the Cinnamon desktop.
 
 the iso for creating an install disk/meida [is available here](https://www.linuxmint.com/download.php)
 
-For my installation, I burned the image to DVD, and booted from the DVD.
+For my installation, I burned the image to an SD Card with a USB adapter.
 
 On Boot, choose "Start Mint" from the menu.  This will put you in live DVD mode, where you can poke around and see what using Mint is like.
 When ready, click the "Install Linux Mint" icon on the desktop to install the OS to your computer.
