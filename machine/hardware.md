@@ -2,10 +2,9 @@
 
 In the N3VEM hamshack, the "shackBox" is the main daily use computer, and the one that the main rigs are/will be connected to.
 
-The computer currently in use is an Acer Aspire X1920.  This is an 'older' PC, but it is plenty capable for daily use in the shack.
-They can generally be found on ebay for under $200.
+The computer currently in use is a refurbished Dell Optiplex 9020.  It is plenty capable for daily use in the shack.
 
-  - Pentium Dual-Core CPU E6700 @ 3.2GHz
-  - 4GB Ram
-  - uppgraded 2TB HDD
-  - upgraded NVIDIA NVS 310 Dual Display Port Video Card
+  - Intel Core i7-Core 4790 up to 4.0GHz
+  - 16GB Ram
+  - 256GB SSD
+  - additional NVIDIA NVS 310 Dual Display Port Video Card
