@@ -1,6 +1,6 @@
 # OpenShack-ShackBox
 
-In the N3VEM hamshack, the "shackBox" is the primary daily use shack computer.  Below are the packages and any pertinent installation notes. 
+In the N3VEM hamshack, the "shackBox" is the primary daily use shack computer.  Below are the packages and any pertinent installation notes. This isn't a compresensive list of everything installed, but it's the things I find most pertinent to my Ham Radio Hobby.
 
 
 From a terminal always begin with
@@ -22,6 +22,11 @@ I've used this logging program on Linux for a while now.  It seems to do most of
 ```
 sudo sh ./LM20_CQRlog_Installer.sh
 ```
+### GQRX
+this is SDR software that can be used with dongles and such.  I've actually only fiddled with it a little bit with an RTD-SDR, but it's there.
+```
+sudo apt install gqrx-sdr
+```
 
 ### fldigi
 *The* program for basically all the digital modes that aren't wsjt or SSTV.
@@ -42,8 +47,15 @@ All the cool kids hang out on the digital modes this software was designed for (
 sudo apt install wsjtx
 ```
 
-## Not Ham Radio Specific, but stuff I use on this machine.
+### Zoiper
+I use this dabbling around with Allstar stuff sometimes.  It's softphone software that you can use to connect to allstar nodes.
+I'd [head to their website for the latest.](https://www.zoiper.com/en/voip-softphone/download/current#linux)
 
+## Not Ham Radio Specific, but stuff I use on this machine.
+These are things that I use pretty often, that are regulalary ham radio adjacent.
+
+### Arduino
+Best bet is to go [their website](https://www.arduino.cc/) to get the latest and greatest.
 
 ### AWSCLI
 I do some dabbling with AWS, so the AWS CLI is a must-have tool for some of the development work I do in AWS.
@@ -65,10 +77,6 @@ replace path and file name below with the path to your downloaded file, and its 
 sudo apt install ~/path/to/download/mysql-workbench-community_8.0.22-1ubuntu20.04_amd64.deb
 ```
 
-### Brave Browser
-I like this broswer.  Blocks adds and stupid stuff. Seems to run fast.
-Directions for installing and setup [available here](https://brave.com/linux/#linux)
-
 ### Visual Studio Code
 Because code.  Others reccomended installing directly from .deb provided by the vendor vs. using what's in the repo.
 You can get the .deb [available here](https://code.visualstudio.com/)
@@ -76,7 +84,7 @@ You can get the .deb [available here](https://code.visualstudio.com/)
 I installed this package using the GUI gdebi package manager.
 
 ### Slack
-This is becoming pretty common for communication amoung different groups.  We use it in POTA to keep in touch with other admins and participants.
+This is becoming pretty common for communication amoung different groups.  I used the most as a volunteer for POTA to keep in touch with other admins and participants.
 Installed from .deb.  [Download here](https://slack.com/downloads/linux)
 
 Installed with gdebi gui application.
